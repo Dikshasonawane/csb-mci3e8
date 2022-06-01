@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dikshasonawane.github.io/csb-mci3e8/static/css/main.47a63437.chunk.css",
+    "main.js": "https://dikshasonawane.github.io/csb-mci3e8/static/js/main.4ffd09df.chunk.js",
+    "main.js.map": "https://dikshasonawane.github.io/csb-mci3e8/static/js/main.4ffd09df.chunk.js.map",
+    "runtime-main.js": "https://dikshasonawane.github.io/csb-mci3e8/static/js/runtime-main.e8087540.js",
+    "runtime-main.js.map": "https://dikshasonawane.github.io/csb-mci3e8/static/js/runtime-main.e8087540.js.map",
+    "static/js/2.1955ec10.chunk.js": "https://dikshasonawane.github.io/csb-mci3e8/static/js/2.1955ec10.chunk.js",
+    "static/js/2.1955ec10.chunk.js.map": "https://dikshasonawane.github.io/csb-mci3e8/static/js/2.1955ec10.chunk.js.map",
+    "index.html": "https://dikshasonawane.github.io/csb-mci3e8/index.html",
+    "static/css/main.47a63437.chunk.css.map": "https://dikshasonawane.github.io/csb-mci3e8/static/css/main.47a63437.chunk.css.map",
+    "static/js/2.1955ec10.chunk.js.LICENSE.txt": "https://dikshasonawane.github.io/csb-mci3e8/static/js/2.1955ec10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8087540.js",
+    "static/js/2.1955ec10.chunk.js",
+    "static/css/main.47a63437.chunk.css",
+    "static/js/main.4ffd09df.chunk.js"
+  ]
+}
